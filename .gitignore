@@ -1,0 +1,8 @@
+.vagrant
+atlassian-*/
+bamboo-home/
+confluence-home/
+jira-home/
+stash-home/
+logs/
+
